@@ -1,0 +1,3 @@
+[submodule "iCustomPy"]
+	path = iCustomPy
+	url = https://github.com/archshift/iphone-py
